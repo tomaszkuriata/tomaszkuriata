@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tomaszkuriata
+- 👋 Hi, I’m Tomasz Kuriata
 - 👀 I’m interested in ...Photography, meteorology, geology, politic.
 - 🌱 I’m currently learning ... JAVA, English and SQL
 - 💞️ I’m looking to collaborate on ...
