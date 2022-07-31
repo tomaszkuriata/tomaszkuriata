@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Tomasz Kuriata
-- 👀 I’m interested in ...Photography, meteorology, geology, politic,
-- 🌱 I’m currently learning ... JAVA, English and SQL,
-- 💞️ I’m looking for a place where I can develop as a software tester and perhaps in the future as a programmer.
+- 👋 Hi, I’m Tomasz Kuriata and I live in Wroclaw.
+- 👀 I’m interested in ...Photography,new technology, meteorology, geology, politic,
+- 🌱 I’m currently learning ... JAVA myself, English and SQL myself too,
+- 💞️ I’m looking for a place where I can develop as a software tester and perhaps in the future as a Java programmer.
 - 📫 How to reach me ... kuriata.tom@gmail.com
 
 <!---
