@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tomasz Kuriata and I live in Wroclaw.
+- 👋 Hi, I’m Tomasz Kuriata, I'm 37 y.o and I live in Wroclaw.
 - 👀 I’m interested in ...Photography,new technology, meteorology, geology, politic,
 - 🌱 I’m currently learning ... JAVA myself, English and SQL myself too,
 - 💞️ I’m looking for a place where I can develop as a software tester and perhaps in the future as a Java programmer.
